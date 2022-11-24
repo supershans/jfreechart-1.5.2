@@ -1,4 +1,4 @@
-JFreeChart
+JFreeChart 
 ==========
 
 Version 1.5.2, 31 December 2020.
